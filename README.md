@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on project-based learning.
 - 📫 How to reach me 
-- ⚡ Fun fact: I like ballet and opera.
+- ⚡ Fun fact: I like ballet, opera and more.
 
 <!---
 barnaLeo/barnaLeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
