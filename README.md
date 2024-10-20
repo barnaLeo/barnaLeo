@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on project-based learning.
 - 📫 How to reach me 
 - ⚡ Fun fact: I like ballet, opera and more.
+- Homebody from Barcelona hahaha
 
 <!---
 barnaLeo/barnaLeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
